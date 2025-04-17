@@ -159,6 +159,9 @@ header p {
     transition: all 0.3s ease-in-out;
     position: relative;
 }
+.surah audio{
+    width: 100%;
+}
 
 .surah:hover {
     transform: translateY(-3px);
